@@ -1,5 +1,7 @@
-// Priority Queue Source - https://www.geeksforgeeks.org/implementation-priority-queue-javascript/
+// 출처: https://programmers.co.kr/learn/courses/30/lessons/42627
+// 힙
 
+// Priority Queue Source - https://www.geeksforgeeks.org/implementation-priority-queue-javascript/
 // User defined class
 // to store element and its priority
 class QElement {
